@@ -58,7 +58,7 @@ type HowStep = {
   badgeTo: string;
 };
 
-const ORG_WHATSAPP = "919876543210"; // 🇮🇳 Replace with your WhatsApp number (country code + number, no + sign)
+const ORG_WHATSAPP = "8447099579"; // 🇮🇳 Replace with your WhatsApp number (country code + number, no + sign)
 
 const SOCIAL_LINKS = {
   instagram: "https://instagram.com/impacttribe", // 🔗 replace with your real handles
